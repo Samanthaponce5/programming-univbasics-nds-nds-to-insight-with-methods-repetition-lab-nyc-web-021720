@@ -63,3 +63,16 @@ end
 
 
 
+
+#or  def total_gross(source)
+  #i = 0 
+  #totals = 0 
+  #while i < source.length
+  #s = source[i]
+  #totals += gross_for_director(s)
+  #i += 1
+  #end
+#totals
+#end
+
+
